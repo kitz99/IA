@@ -931,4 +931,202 @@ net1 =
 >> view(net);
 >> hold on;
 >> view(net);
+>> x = [0 0; 0 1; 1 0; 1 1];
+>> t = [0 1 1 1];
+>> net = newp([0 1; 0 1], 1);
+>> net.inputweights = 'rands';
+Error using network/subsasgn>network_subsasgn (line 245)
+You must assign to subobject properties individually.
+
+Error in network/subsasgn (line 13)
+net = network_subsasgn(net,subscripts,v,netname);
+ 
+>> net.inputweight = 'rands';
+Error using network/subsasgn>network_subsasgn (line 526)
+Reference to non-existent field 'inputweight'.
+
+Error in network/subsasgn (line 13)
+net = network_subsasgn(net,subscripts,v,netname);
+ 
+>>  net.inputweights{1,1}.initFcn = 'rands'; net.biases{1}.initFcn = 'rands';
+>> net = init(net);
+>> net.trainParams(x, t);
+Argument to dynamic structure reference must evaluate to a valid field name.
+
+Error in network/subsref (line 119)
+        v = v.(subs);
+ 
+>> net.trainParams(t, x);
+Argument to dynamic structure reference must evaluate to a valid field name.
+
+Error in network/subsref (line 119)
+        v = v.(subs);
+ 
+>> net.trainParams.epochs = 100;
+Error using network/subsasgn>network_subsasgn (line 526)
+Reference to non-existent field 'trainParams'.
+
+Error in network/subsasgn (line 13)
+net = network_subsasgn(net,subscripts,v,netname);
+ 
+>> net.trainParam.epochs = 1; 
+>> net.trainParam.epochs = 100;
+>> net = train(net, x, t);
+Error using trainc (line 100)
+Inputs and targets have different numbers of samples.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, x, t);
+Error using trainc (line 100)
+Inputs and targets have different numbers of samples.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> x = [0 0; 1 1; 1 0; 1 1]; 
+>> [net, y, e] = train(net, x, t);
+Error using trainc (line 100)
+Inputs and targets have different numbers of samples.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, {[0;0], [0;1], [1,0], [1,1]}, t);
+Error using trainc (line 93)
+Inputs X{1,3} and Inputs X{1,1} have different numbers of rows.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, x', t);
+>> [net, y, e] = train(net, {[0;0], [0;1], [1,0], [1,1]}, {0 1 0 1});
+Error using trainc (line 93)
+Inputs X{1,3} and Inputs X{1,1} have different numbers of rows.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, {[0;0], [0;1], [1,0], [1,1]}', {0 1 0 1});
+Error using trainc (line 93)
+Inputs X{3,1} and Inputs X{1,1} have different numbers of columns.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, {[0;0],[0;1],[1;0], [1;1]}, {0 1 0 1});
+>> [net, y, e] = train(net, {[0;0],[0;1],[1;0], [1;1]}, {0 1 0 1});
+>> e
+
+e = 
+
+    [0]    [1]    [1]    [1]
+
+>> y
+
+y = 
+
+        trainFcn: 'trainc'
+      trainParam: [1x1 nnetParam]
+      performFcn: 'mae'
+    performParam: [1x1 nnetParam]
+        derivFcn: 'defaultderiv'
+       divideFcn: 'dividetrain'
+      divideMode: 'sample'
+     divideParam: [1x1 nnetParam]
+        trainInd: 1
+          valInd: []
+         testInd: []
+            stop: 'Maximum epoch reached.'
+      num_epochs: 100
+       trainMask: {[1]}
+         valMask: {[0]}
+        testMask: {[0]}
+      best_epoch: 0
+            goal: 0
+          states: {'epoch'  'time'  'perf'  'vperf'  'tperf'}
+           epoch: [1x101 double]
+            time: [1x101 double]
+            perf: [1x101 double]
+           vperf: [1x101 double]
+           tperf: [1x101 double]
+       best_perf: 0.2500
+      best_vperf: NaN
+      best_tperf: NaN
+
+>> plotpv(x',y);
+hold on;
+plotpc(net.iw, net.b);
+Error using vertcat
+The following error occurred converting from double to struct:
+Error using struct
+Conversion to struct from double is not possible.
+
+Error in plotpv (line 55)
+t = [t; zeros(3-tr,tc)];
+ 
+>> plotpv(x[:],y[:]);
+ plotpv(x[:],y[:]);
+        |
+Error: Unbalanced or unexpected parenthesis or bracket.
+ 
+>> plotpv(x,y);
+Error using plotpv (line 42)
+P must 1, 2, or 3 rows.
+ 
+>> plotpv([x[:]],[y[:]]);
+ plotpv([x[:]],[y[:]]);
+         |
+Error: Unbalanced or unexpected parenthesis or bracket.
+ 
+>> plotpv([x],[y]);
+Error using plotpv (line 42)
+P must 1, 2, or 3 rows.
+ 
+>> plotpv([x(1)],[y(1)]);
+Error using vertcat
+The following error occurred converting from double to struct:
+Error using struct
+Conversion to struct from double is not possible.
+
+Error in plotpv (line 55)
+t = [t; zeros(3-tr,tc)];
+ 
+>> plotpv([x(1), x(2)],[y(1), y(2)]);
+Index exceeds matrix dimensions.
+ 
+>> y = sim(net, x);
+Error using network/sim (line 130)
+Input 1 size does not match net.inputs{1}.size.
+ 
+>> y = sim(net, x');
+>> plotpv(x,y);
+Error using plotpv (line 42)
+P must 1, 2, or 3 rows.
+ 
+>> x
+
+x =
+
+     0     0
+     1     1
+     1     0
+     1     1
+
+>> y
+
+y =
+
+     0     1     1     1
+
+>> plotpv([x(1), x(2), x(3), x(4)], [y(1), y(2), y(3), y(4)]);
+>> hold on;
+>> plotpc(net.iw, net.b);
+Undefined function 'ne' for input arguments of type 'cell'.
+
+Error in plotpc (line 83)
+    if w(i,2) ~= 0
+ 
+>> plotpc(net.iw{1, :}, net.b{:});
 >> 
