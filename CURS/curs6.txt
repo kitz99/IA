@@ -68,6 +68,10 @@
 
 		Motivatia acestui decalaj este aceea a conditiilo de experiment. Vectorii de antrenare au fost prezentati aleator; 
 
+		Regula corelatiei :  in relatia 2.49 este J(w), nu J(x);
+		2.50 - regula Hebiana
+		Dupa regula de corelatie se sare la pagina 19 [distanta minchopski] - relatia 2.68;
+
 
 
 
