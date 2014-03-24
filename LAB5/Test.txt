@@ -1,0 +1,1132 @@
+>> help
+HELP topics:
+
+matlabxl\matlabxl              - MATLAB Builder EX
+matlab\demos                   - Examples and demonstrations.
+matlab\graph2d                 - Two dimensional graphs.
+matlab\graph3d                 - Three dimensional graphs.
+matlab\graphics                - Handle Graphics.
+matlab\plottools               - Graphical plot editing tools 
+matlab\scribe                  - Annotation and Plot Editing.
+matlab\specgraph               - Specialized graphs.
+matlab\uitools                 - Graphical user interface components and tools
+toolbox\local                  - General preferences and configuration information.
+matlab\general                 - General purpose commands.
+matlab\ops                     - Operators and special characters.
+matlab\lang                    - Programming language constructs.
+matlab\elmat                   - Elementary matrices and matrix manipulation.
+matlab\randfun                 - Random matrices and random streams.
+matlab\elfun                   - Elementary math functions.
+matlab\specfun                 - Specialized math functions.
+matlab\matfun                  - Matrix functions - numerical linear algebra.
+matlab\datafun                 - Data analysis and Fourier transforms.
+matlab\polyfun                 - Interpolation and polynomials.
+matlab\funfun                  - Function functions and ODE solvers.
+matlab\sparfun                 - Sparse matrices.
+matlab\strfun                  - Character strings.
+matlab\iofun                   - File input and output.
+matlab\timefun                 - Time and dates.
+matlab\datatypes               - Data types and structures.
+matlab\verctrl                 - Version control.
+matlab\codetools               - Commands for creating and debugging code
+matlab\helptools               - Help commands.
+matlab\winfun                  - Windows Operating System Interface Files (COM/DDE)
+winfun\NET                     - Using .NET from within MATLAB
+matlab\hds                     - (No table of contents file)
+matlab\guide                   - Graphical user interface design environment
+matlab\datamanager             - (No table of contents file)
+shared\instrument              - (No table of contents file)
+AUTOSAR\AUTOSAR                - (No table of contents file)
+rtw\accel                      - (No table of contents file)
+blocks\library                 - (No table of contents file)
+simulink\simulink              - Simulink
+simulink\blocks                - Simulink block library.
+simulink\components            - Simulink components.
+simulink\fixedandfloat         - Simulink Fixed Point utilities.
+fixedandfloat\obsolete         - (No table of contents file)
+simulink\dee                   - Differential Equation Editor
+simulink\MPlayIO               - (No table of contents file)
+simulink\simdemos              - Simulink demonstrations and examples.
+simdemos\aerospace             - Simulink: Aerospace model demonstrations and samples.
+simdemos\automotive            - Simulink: Automotive model demonstrations and samples.
+simdemos\simfeatures           - Simulink: Feature demonstrations and samples.
+simdemos\simgeneral            - Simulink: General model demonstrations and samples.
+simulink\modeladvisor          - (No table of contents file)
+glue\studio                    - (No table of contents file)
+stateflow\stateflow            - Stateflow
+stateflow\sfdemos              - Stateflow demonstrations and samples.
+matlab\audiovideo              - Audio and Video support.
+bioinfo\bioinfo                - Bioinformatics Toolbox
+bioinfo\biolearning            - Bioinformatics Toolbox -- Statistical Learning functions.
+bioinfo\microarray             - Bioinformatics Toolbox -- Microarray support functions.
+bioinfo\mass_spec              - Bioinformatics Toolbox -- Mass spectrometry data analysis functions.
+bioinfo\proteins               - Bioinformatics Toolbox -- Protein analysis tools.
+bioinfo\biomatrices            - Bioinformatics Toolbox -- Sequence similarity scoring matrices.
+bioinfo\graphtheory            - Bioinformatics Toolbox -- Graph Theory functions.
+bioinfo\biodemos               - Bioinformatics Toolbox -- Tutorials, demos and examples.
+coder\matlabcoder              - MATLAB Coder
+coder\codegendemos             - (No table of contents file)
+rtw\rtw                        - Simulink Coder
+targets\shared                 - (No table of contents file)
+coder_foundation\tfl           - (No table of contents file)
+comm\comm                      - Communications System Toolbox
+commutilities\comminit         - (No table of contents file)
+commutilities\commmex          - (No table of contents file)
+comm\commutilities             - (No table of contents file)
+comm\commdeprecated            - Archived MATLAB Files from Communications System Toolbox.
+comm\examples                  - Communications Toolbox Documentation Examples.
+comm\commdemos                 - Communications System Toolbox Demos.
+shared\comparisons             - (No table of contents file)
+toolbox\compiler               - MATLAB Compiler
+control\control                - Control System Toolbox
+control\ctrlguis               - Control System Toolbox --  Visualization and plot manipulation.
+control\ctrlobsolete           - Control System Toolbox -- obsolete commands.
+control\ctrlutil               - Control System Toolbox -- Utilities and MEX files.
+control\ctrldemos              - Control System Toolbox -- Demos.
+curvefit\curvefit              - Curve Fitting Toolbox
+curvefit\splines               - Curve Fitting Toolbox -- Spline Functions
+curvefit\cftoolgui             - Curve Fitting Toolbox -- Curve Fitting Tool
+curvefit\curvefitdemos         - Curve Fitting Toolbox -- Demos
+daq\daq                        - Data Acquisition Toolbox
+daq\daqguis                    - Data Acquisition Toolbox - Data Acquisition Soft Instruments.
+daqblks\daqblks                - (No table of contents file)
+daqblks\daqmasks               - (No table of contents file)
+daqblks\daqmex                 - (No table of contents file)
+daq\daqdemos                   - Data Acquisition Toolbox - Data Acquisition Demos.
+database\database              - Database Toolbox
+database\vqb                   - Visual Query Builder functions.
+database\dbdemos               - Database Toolbox Demonstration Functions.
+datafeed\datafeed              - Datafeed Toolbox
+datafeed\dfgui                 - Datafeed Toolbox Graphical User Interface
+toolbox\distcomp               - (No table of contents file)
+distcomp\distcomp              - (No table of contents file)
+distcomp\user                  - (No table of contents file)
+distcomp\mpi                   - (No table of contents file)
+distcomp\parallel              - Parallel Algorithms
+parallel\util                  - (No table of contents file)
+distcomp\lang                  - Parallel computing programming language constructs.
+distcomp\gpu                   - There are several options available for using your computer's graphics 
+distcomp\pctdemos              - (No table of contents file)
+distcomp\worker                - MATLAB Distributed Computing Server
+dotnetbuilder\dotnetbuilder    - MATLAB Builder NE
+qualkits\do                    - DO Qualification Kit
+dsp\dsp                        - DSP System Toolbox
+dsp\dsputilities               - (No table of contents file)
+dsputilities\dspinit           - (No table of contents file)
+dsputilities\dspmex            - (No table of contents file)
+dsp\dspdemos                   - DSP System Toolbox demonstrations and examples.
+shared\filterdesignlib         - (No table of contents file)
+shared\system                  - (No table of contents file)
+dspblks\dspblks                - (No table of contents file)
+fixedpoint\fixedpoint          - Fixed-Point Toolbox
+dsp\filterdesign               - (No table of contents file)
+targets\ecoder                 - (No table of contents file)
+ecoder\ecoderdemos             - (No table of contents file)
+mpt\mpt                        - Module Packaging Feature
+mpt\user_specific              - (No table of contents file)
+toolbox\embeddedcoder          - Embedded Coder
+edalink\edalink                - EDA Simulator Link
+foundation\hdllink             - (No table of contents file)
+modelsim\modelsim              - EDA Simulator Link for use with Mentor Graphics ModelSim
+modelsim\modelsimdemos         - (No table of contents file)
+incisive\incisive              - EDA Simulator Link for use with Cadence Incisive
+incisive\incisivedemos         - (No table of contents file)
+discovery\discovery            - The capability to cosimulate with Synopsys Discovery has been removed. 
+tlmgenerator\foundation        - (No table of contents file)
+foundation\tlmgeneratordemos   - (No table of contents file)
+kernel\embedded                - xPC Target Embedded Option
+eml\eml                        - (No table of contents file)
+toolbox\exlink                 - Spreadsheet Link EX
+fixedpoint\fixedpointtool      - (No table of contents file)
+fixedpoint\fidemos             - (No table of contents file)
+toolbox\fixpoint               - Simulink Fixed Point
+sldv\sldv                      - Simulink Design Verifier 
+fixedandfloat\fxpdemos         - Simulink Fixed Point Demos
+fuzzy\fuzzy                    - Fuzzy Logic Toolbox
+fuzzy\fuzzyutil                - (No table of contents file)
+fuzzy\fuzdemos                 - Fuzzy Logic Toolbox Demos.
+geoweb\geoweb                  - GeoWeb Functions and Classes
+hdlfilter\hdlfilter            - Filter Design HDL Coder 
+hdlfilter\hdlfiltdemos         - Filter Design HDL Coder Demos
+adivdsp\mdlinfo                - (No table of contents file)
+adivdsp\tfl                    - (No table of contents file)
+eclipseide\mdlinfo             - (No table of contents file)
+eclipseide\tfl                 - (No table of contents file)
+ghsmulti\mdlinfo               - (No table of contents file)
+ghsmulti\tfl                   - (No table of contents file)
+iarew\mdlinfo                  - (No table of contents file)
+ticcs\ccsblks                  - (No table of contents file)
+ticcs\ccslinkblks              - (No table of contents file)
+ccslinkblks\rtdxsimblks        - (No table of contents file)
+ticcs\lic                      - (No table of contents file)
+ticcs\mdlinfo                  - (No table of contents file)
+ticcs\tfl                      - (No table of contents file)
+ticcs\util                     - (No table of contents file)
+ticcs\envChecker               - (No table of contents file)
+extensions\wrworkbench         - (No table of contents file)
+wrworkbench\mdlinfo            - (No table of contents file)
+foundation\util                - (No table of contents file)
+foundation\errorhandler        - (No table of contents file)
+lfsocket\lfsocket              - (No table of contents file)
+foundation\xmakefile           - (No table of contents file)
+foundation\pjtgenerator        - (No table of contents file)
+pjtgenerator\hookpoints        - (No table of contents file)
+pjtgenerator\tgtpref2          - (No table of contents file)
+pjtgenerator\mdlinfo           - (No table of contents file)
+pjtgenerator\blks              - (No table of contents file)
+blks\masks                     - (No table of contents file)
+blks\utils                     - (No table of contents file)
+idelink\idelinkdemos           - (No table of contents file)
+adivdsp\vdspdemos              - (No table of contents file)
+eclipseide\eclipseidedemos     - (No table of contents file)
+ghsmulti\multidemos            - (No table of contents file)
+iarew\iarewdemos               - (No table of contents file)
+ticcs\ccsdemos                 - (No table of contents file)
+ccsdemos\util                  - (No table of contents file)
+etargets\etargets              - (No table of contents file)
+etargets\demoutils             - (No table of contents file)
+tasking\tasking                - Support for Altium(R) TASKING(R) IDE has been removed. 
+tasking\taskingdemos           - (No table of contents file)
+ident\ident                    - System Identification Toolbox
+ident\nlident                  - Nonlinear System Identification features. Type "help ident" for more info.
+ident\idobsolete               - (No table of contents file)
+ident\idguis                   - (No table of contents file)
+ident\idutils                  - (No table of contents file)
+ident\iddemos                  - (No table of contents file)
+iddemos\examples               - (No table of contents file)
+qualkits\iec                   - IEC Certification Kit
+images\colorspaces             - Image Processing Toolbox --- colorspaces
+images\images                  - Image Processing Toolbox
+images\imuitools               - Image Processing Toolbox --- imuitools
+images\iptformats              - Image Processing Toolbox --- File Formats
+images\iptutils                - Image Processing Toolbox --- utilities
+matlab\imagesci                - Image and scientific data input/output.
+images\imdemos                 - Image Processing Toolbox --- demos and sample images
+javabuilder\javabuilder        - MATLAB Builder JA
+map\map                        - Mapping Toolbox
+map\mapdisp                    - (No table of contents file)
+map\mapformats                 - (No table of contents file)
+map\mapproj                    - (No table of contents file)
+map\mapdata                    - Mapping Toolbox Sample Data Sets
+map\mapdemos                   - Mapping Toolbox Demos.
+mbc\mbc                        - Model-Based Calibration Toolbox
+mbc\mbcdata                    - Model-Based Calibration Toolbox private utilities.
+mbc\mbcdemos                   - (No table of contents file)
+mbc\mbcdesign                  - Model-Based Calibration Toolbox private utilities.
+mbc\mbcexpr                    - Model-Based Calibration Toolbox private utilities.
+mbc\mbcguitools                - Model-Based Calibration Toolbox private utilities.
+mbc\mbclayouts                 - Model-Based Calibration Toolbox private utilities.
+mbc\mbcmodels                  - Model-Based Calibration Toolbox private utilities.
+mbc\mbcsimulink                - Model-Based Calibration Toolbox private utilities.
+mbc\mbctools                   - Model-Based Calibration Toolbox private utilities.
+mbc\mbcview                    - Model-Based Calibration Toolbox private utilities.
+mpc\mpc                        - Model Predictive Control Toolbox
+mpc\mpcdemos                   - Model Predictive Control Toolbox -- Demos.
+mpc\mpcguis                    - (No table of contents file)
+mpc\mpcobsolete                - Contents of the previous (obsolete) version of MPC Toolbox
+mpc\mpcutils                   - (No table of contents file)
+toolbox\nnet                   - Neural Network Toolbox
+nnet\nncontrol                 - Neural Network Toolbox Control System Functions.
+nnet\nndemos                   - Neural Network Demonstrations and Applications
+nndemos\nndatasets             - Neural Network Datasets
+nnet\nnadapt                   - Neural Network Toolbox Adapt Functions.
+nnet\nndatafun                 - Neural Network Toolbox Data Functions.
+nnet\nnderivative              - Neural Network Toolbox Derivative Functions.
+nnet\nndistance                - Neural Network Toolbox Distance Functions.
+nnet\nndivision                - Neural Network Toolbox Division Functions.
+nnet\nninitlayer               - Neural Network Toolbox Layer Initialization Functions.
+nnet\nninitnetwork             - Neural Network Toolbox Network Initialization Functions.
+nnet\nninitweight              - Neural Network Toolbox Weight Initialization Functions.
+nnet\nnlearn                   - Neural Network Toolbox Learning Functions.
+nnet\nnnetfun                  - Neural Network Toolbox Network Functions.
+nnet\nnnetinput                - Neural Network Toolbox Net Input Functions.
+nnet\nnnetwork                 - Neural Network Toolbox Network Creation Functions.
+nnet\nnperformance             - Neural Network Toolbox Performance Functions.
+nnet\nnplot                    - Neural Network Toolbox Plot Functions.
+nnet\nnprocess                 - Neural Network Toolbox Processing Functions.
+nnet\nnsearch                  - Neural Network Toolbox Line Search Functions.
+nnet\nntopology                - Neural Network Toolbox Topology Functions.
+nnet\nntrain                   - Neural Network Toolbox Training Functions.
+nnet\nntransfer                - Neural Network Toolbox Transfer Functions.
+nnet\nnweight                  - Neural Network Toolbox Weight Functions.
+nnet\nnguis                    - Neural Network Toolbox GUI Functions.
+nnet\nnobsolete                - Neural Network Toolbox Obsolete Functions
+nnet\nnutils                   - Neural Network Toolbox Utility Functions
+opc\opc                        - OPC Toolbox
+opc\opcgui                     - (No table of contents file)
+opc\opcdemos                   - OPC Toolbox - OPC Demos
+opcdemos\opcblksdemos          - OPC Toolbox Block Library Demos.
+opcblks\opcblks                - OPC Toolbox Block Library Support Functions.
+optim\optim                    - Optimization Toolbox
+optim\optimdemos               - Demonstrations.
+toolbox\pde                    - Partial Differential Equation Toolbox
+pde\pdedemos                   - Partial Differential Equation Toolbox Demos
+data_manager\data_manager      - (No table of contents file)
+foundation\foundation          - (No table of contents file)
+network_engine\network_engine  - (No table of contents file)
+ne_sli\ne_sli                  - (No table of contents file)
+pm_sli\pm_sli                  - (No table of contents file)
+simscape\simscapedemos         - (No table of contents file)
+foundation\simscape            - Simscape
+library\m                      - (No table of contents file)
+simscape\m                     - (No table of contents file)
+unit_manager\unit_manager      - (No table of contents file)
+qualkits\common                - (No table of contents file)
+slvnv\reqmgt                   - Requirements Management Interface.
+slvnv\slvnv                    - Simulink Verification and Validation
+slvnv\rmidemos                 - (No table of contents file)
+rf\rf                          - RF Toolbox
+rf\rfdemos                     - RF Toolbox Demos
+rf\rftool                      - RF Tool Graphical User Interface
+rf\openif                      - Intermediate Frequency Planner
+robust\robust                  - Robust Control Toolbox
+robust\rctlmi                  - Robust Control Toolbox - LMI Solvers.
+robust\rctutil                 - (No table of contents file)
+robust\rctdemos                - Robust Control Toolbox -- Demos.
+rctobsolete\lmi                - (No table of contents file)
+mutools\commands               - (No table of contents file)
+mutools\subs                   - Utilities for obsolete MUTOOLS commands.
+rptgen\rptgen                  - MATLAB Report Generator
+rptgen\rptgenv1                - (No table of contents file)
+rptgen\rptgendemos             - (No table of contents file)
+asap2\asap2                    - (No table of contents file)
+asap2\user                     - (No table of contents file)
+can\blocks                     - (No table of contents file)
+common\tgtcommon               - (No table of contents file)
+targets\pil                    - (No table of contents file)
+toolbox\simulinkcoder          - Simulink Coder
+rtwin\rtwin                    - Real-Time Windows Target
+rtwin\rtwindemos               - (No table of contents file)
+rtw\rtwdemos                   - Simulink Coder Demos
+rtwdemos\rsimdemos             - (No table of contents file)
+shared\can                     - (No table of contents file)
+can\canblks                    - (No table of contents file)
+can\canmasks                   - (No table of contents file)
+can\canmex                     - (No table of contents file)
+controllib\engine              - Control Library - Engine.
+engine\options                 - (No table of contents file)
+controllib\general             - Control System Toolbox - General Utilities.
+controllib\graphics            - Control Library - Graphics.
+controllib\requirements        - Control Library - Design Requirements.
+shared\dastudio                - (No table of contents file)
+dastudio\depviewer             - (No table of contents file)
+eda\fil                        - (No table of contents file)
+fil\fildemos                   - (No table of contents file)
+eda\fpgaautomation             - EDA Simulator Link for Xilinx FPGA design automation
+shared\hdlshared               - HDL Library
+shared\imageslib               - Image Processing Toolbox Library
+shared\imaqlib                 - Image Acquisition Toolbox Library
+shared\mapgeodesy              - Geometric Geodesy Functions
+shared\maputils                - Map Utility Functions
+shared\optimlib                - Optimization Toolbox Library
+shared\rptgen                  - (No table of contents file)
+shared\sigbldr                 - (No table of contents file)
+shared\siglib                  - (No table of contents file)
+shared\slcontrollib            - Simulink Control Design Library
+shared\sldv                    - sldvisactive         - Check if Simulink Design Verifier software is analyzing model 
+shared\slvnv                   - (No table of contents file)
+slvnv\simcoverage              - Simulink Model Coverage Tool 
+shared\spcuilib                - (No table of contents file)
+shared\statslib                - Statistics Toolbox Library
+testmeaslib\simulink           - (No table of contents file)
+signal\signal                  - Signal Processing Toolbox 
+signal\sigtools                - (No table of contents file)
+signal\sptoolgui               - (No table of contents file)
+signal\sigdemos                - (No table of contents file)
+simbio\simbio                  - SimBiology
+simbio\simbiodemos             - SimBiology Demos
+sl3d\sl3d                      - Simulink 3D Animation
+sl3d\sl3ddemos                 - Simulink 3D Animation examples.
+slci\slci                      - Simulink Code Inspector
+slci\slcidemos                 - (No table of contents file)
+slcontrol\slcontrol            - Simulink Control Design 
+slcontrol\slctrlguis           - (No table of contents file)
+slcontrol\slctrlutil           - (No table of contents file)
+slcontrol\slctrldemos          - (No table of contents file)
+sldo\sldo                      - Simulink Design Optimization 
+sldo\sldoguis                  - (No table of contents file)
+sloptim\sloptim                - (No table of contents file)
+sloptim\sloptguis              - (No table of contents file)
+sloptim\sloptobsolete          - (No table of contents file)
+slestim\slestguis              - (No table of contents file)
+slestim\slestim                - (No table of contents file)
+slestim\slestmex               - Simulink Design Optimization Estimation S-Function MEX-files.
+slestim\slestutil              - (No table of contents file)
+sldo\sldodemos                 - Simulink Design Optimization Demos.
+sldodemos\optim                - (No table of contents file)
+sldodemos\estim                - (No table of contents file)
+sldo\examples                  - (No table of contents file)
+sldv\sldvdemos                 - (No table of contents file)
+slvnv\slvnvdemos               - (No table of contents file)
+slvnv\simcovdemos              - (No table of contents file)
+stats\stats                    - Statistics Toolbox
+stats\classreg                 - (No table of contents file)
+stats\statsdemos               - Statistics Toolbox --- Demos
+stm\stm                        - Simulation and Test Manager
+stm\stmdemos                   - Simulation and Test Manager examples and demonstrations.
+symbolic\symbolic              - Symbolic Math Toolbox
+symbolic\symbolicdemos         - (No table of contents file)
+systemtest\systemtest          - SystemTest
+systemtest\systemtestdemos     - SystemTest demonstrations and examples.
+blks\masks                     - (No table of contents file)
+blackfin\blackfindemos         - (No table of contents file)
+c166\c166                      - (No table of contents file)
+c166\c166demos                 - (No table of contents file)
+intelhost\tfl                  - (No table of contents file)
+common\configuration           - (No table of contents file)
+mpc555dk\mpc555dk              - (No table of contents file)
+blockset\mfiles                - (No table of contents file)
+rt\blockset                    - (No table of contents file)
+mpc555dk\mpc555demos           - (No table of contents file)
+foundation\utils               - (No table of contents file)
+utils\resource_config          - (No table of contents file)
+blks\mex                       - (No table of contents file)
+blks\masks                     - (No table of contents file)
+ti\mdlinfo                     - (No table of contents file)
+ti\utils                       - (No table of contents file)
+blks\masks                     - (No table of contents file)
+target\targetdemos             - (No table of contents file)
+processor\tic2000              - (No table of contents file)
+tic2000\utils                  - (No table of contents file)
+blks\masks                     - (No table of contents file)
+tic2000\tic2000demos           - (No table of contents file)
+blks\masks                     - (No table of contents file)
+tic5000\tic5000demos           - (No table of contents file)
+processor\tic6000              - (No table of contents file)
+tic6000\tfl                    - (No table of contents file)
+tic6000\utils                  - (No table of contents file)
+blks\masks                     - TI C6000 (tm) Blocks
+tic6000\tic6000demos           - (No table of contents file)
+blks\masks                     - (No table of contents file)
+blks\mex                       - (No table of contents file)
+blks\masks                     - (No table of contents file)
+blks\masks                     - (No table of contents file)
+matlab\timeseries              - Time series data visualization and exploration.
+vision\vision                  - Computer Vision System Toolbox
+vision\visionutilities         - (No table of contents file)
+visionutilities\visioninit     - (No table of contents file)
+visionutilities\visionmex      - (No table of contents file)
+vnt\vnt                        - Vehicle Network Toolbox
+vnt\vntguis                    - (No table of contents file)
+vnt\vntdemos                   - (No table of contents file)
+vntblks\vntblks                - (No table of contents file)
+vntblks\vntmasks               - (No table of contents file)
+wavelet\wavelet                - Wavelet Toolbox
+wavelet\wmultisig1d            - (No table of contents file)
+wavelet\wavedemo               - (No table of contents file)
+wavelet\compression            - (No table of contents file)
+xpc\xpc                        - xPC Target
+xpcblocks\thirdpartydrivers    - (No table of contents file)
+build\xpcblocks                - xPC Target -- Blocks
+xpc\xpcdemos                   - xPC Target -- demos and sample script files.
+
+>> x = eye(5);
+>> c = mat2cell(x, [2 2 1][2 3]);
+ c = mat2cell(x, [2 2 1][2 3]);
+                       |
+Error: Unbalanced or unexpected parenthesis or bracket.
+ 
+>> c = mat2cell(x, [2 2 1],[2 3]);
+>> c{1}
+
+ans =
+
+     1     0
+     0     1
+
+>> s = {'Ana', 'are', 'mere'};
+>> p = [s{1], ' ', s{2}, ' ', s{3}];
+ p = [s{1], ' ', s{2}, ' ', s{3}];
+        |
+Error: Unbalanced or unexpected parenthesis or bracket.
+ 
+>> s
+
+s = 
+
+    'Ana'    'are'    'mere'
+
+>> s{1}
+
+ans =
+
+Ana
+
+>> p = [s{1], ' ' , s{2}, ' ' , s{3}];
+ p = [s{1], ' ' , s{2}, ' ' , s{3}];
+        |
+Error: Unbalanced or unexpected parenthesis or bracket.
+ 
+>> find(strcmp(s, 'ana'))
+
+ans =
+
+   Empty matrix: 1-by-0
+
+>> ans
+
+ans =
+
+   Empty matrix: 1-by-0
+
+>> find(strcmp(s, 'Ana'))
+
+ans =
+
+     1
+
+>> s.name = 'Andrei';
+??? Warning: Struct field assignment overwrites a value with class "cell".
+ See MATLAB 7.0.4 Release Notes, Assigning Nonstructure Variables As Structures Displays Warning for details. 
+>> s.age = 23;
+>> s
+
+s = 
+
+    name: 'Andrei'
+     age: 23
+
+>> s(2).name = 'Dana';
+>> s(2).age = 19;
+>> s
+
+s = 
+
+1x2 struct array with fields:
+    name
+    age
+
+>> s.name
+
+ans =
+
+Andrei
+
+
+ans =
+
+Dana
+
+>> s.age
+
+ans =
+
+    23
+
+
+ans =
+
+    19
+
+>> ages = [s.age];
+>> ages
+
+ages =
+
+    23    19
+
+>> md4db
+Undefined function or variable 'md4db'.
+ 
+>> nnd4db
+>> net = newp([-1 1; -1 1], 1]
+ net = newp([-1 1; -1 1], 1]
+                          |
+Error: Unbalanced or unexpected parenthesis or bracket.
+ 
+>> net = newp([-1 1; -1 1], 1);
+>> net
+
+net =
+
+    Neural Network
+ 
+              name: 'Custom Neural Network'
+        efficiency: .cacheDelayedInputs, .flattenTime,
+                    .memoryReduction
+          userdata: (your custom info)
+ 
+    dimensions:
+ 
+         numInputs: 1
+         numLayers: 1
+        numOutputs: 1
+    numInputDelays: 0
+    numLayerDelays: 0
+ numFeedbackDelays: 0
+ numWeightElements: 3
+        sampleTime: 1
+ 
+    connections:
+ 
+       biasConnect: true
+      inputConnect: true
+      layerConnect: false
+     outputConnect: true
+ 
+    subobjects:
+ 
+            inputs: {1x1 cell array of 1 input}
+            layers: {1x1 cell array of 1 layer}
+           outputs: {1x1 cell array of 1 output}
+            biases: {1x1 cell array of 1 bias}
+      inputWeights: {1x1 cell array of 1 weight}
+      layerWeights: {1x1 cell array of 0 weights}
+ 
+    functions:
+ 
+          adaptFcn: 'adaptwb'
+        adaptParam: (none)
+          derivFcn: 'defaultderiv'
+         divideFcn: (none)
+       divideParam: (none)
+        divideMode: 'sample'
+           initFcn: 'initlay'
+        performFcn: 'mae'
+      performParam: .regularization, .normalization, .squaredWeighting
+          plotFcns: {'plotperform', plottrainstate}
+        plotParams: {1x2 cell array of 2 params}
+          trainFcn: 'trainc'
+        trainParam: .showWindow, .showCommandLine, .show, .epochs,
+                    .time, .goal, .max_fail
+ 
+    weight and bias values:
+ 
+                IW: {1x1 cell} containing 1 input weight matrix
+                LW: {1x1 cell} containing 0 layer weight matrices
+                 b: {1x1 cell} containing 1 bias vector
+ 
+    methods:
+ 
+             adapt: Learn while in continuous use
+         configure: Configure inputs & outputs
+            gensim: Generate Simulink model
+              init: Initialize weights & biases
+           perform: Calculate performance
+               sim: Evaluate network outputs given inputs
+             train: Train network with examples
+              view: View diagram
+       unconfigure: Unconfigure inputs & outputs
+ 
+    evaluate:       outputs = net(inputs)
+ 
+>> net.w{1,1}
+Argument to dynamic structure reference must evaluate to a valid field name.
+
+Error in network/subsref (line 119)
+        v = v.(subs);
+ 
+>> net.b{1}
+
+ans =
+
+     0
+
+>> net.inputweights{1, 1}
+
+ans = 
+
+    Neural Network Weight
+
+            delays: 0
+           initFcn: 'initzero'
+      initSettings: (none)
+             learn: true
+          learnFcn: 'learnp'
+        learnParam: (none)
+              size: [1 2]
+         weightFcn: 'dotprod'
+       weightParam: (none)
+          userdata: (your custom info)
+
+>> net.biases{1, 1}
+
+ans = 
+
+    Neural Network Bias
+
+           initFcn: 'initzero'
+             learn: true
+          learnFcn: 'learnp'
+        learnParam: (none)
+              size: 1
+          userdata: (your custom info)
+
+>> net.iw{1, 1} = [0.5, 0.2];
+>> net.b{1} = [1];
+>> net
+
+net =
+
+    Neural Network
+ 
+              name: 'Custom Neural Network'
+        efficiency: .cacheDelayedInputs, .flattenTime,
+                    .memoryReduction
+          userdata: (your custom info)
+ 
+    dimensions:
+ 
+         numInputs: 1
+         numLayers: 1
+        numOutputs: 1
+    numInputDelays: 0
+    numLayerDelays: 0
+ numFeedbackDelays: 0
+ numWeightElements: 3
+        sampleTime: 1
+ 
+    connections:
+ 
+       biasConnect: true
+      inputConnect: true
+      layerConnect: false
+     outputConnect: true
+ 
+    subobjects:
+ 
+            inputs: {1x1 cell array of 1 input}
+            layers: {1x1 cell array of 1 layer}
+           outputs: {1x1 cell array of 1 output}
+            biases: {1x1 cell array of 1 bias}
+      inputWeights: {1x1 cell array of 1 weight}
+      layerWeights: {1x1 cell array of 0 weights}
+ 
+    functions:
+ 
+          adaptFcn: 'adaptwb'
+        adaptParam: (none)
+          derivFcn: 'defaultderiv'
+         divideFcn: (none)
+       divideParam: (none)
+        divideMode: 'sample'
+           initFcn: 'initlay'
+        performFcn: 'mae'
+      performParam: .regularization, .normalization, .squaredWeighting
+          plotFcns: {'plotperform', plottrainstate}
+        plotParams: {1x2 cell array of 2 params}
+          trainFcn: 'trainc'
+        trainParam: .showWindow, .showCommandLine, .show, .epochs,
+                    .time, .goal, .max_fail
+ 
+    weight and bias values:
+ 
+                IW: {1x1 cell} containing 1 input weight matrix
+                LW: {1x1 cell} containing 0 layer weight matrices
+                 b: {1x1 cell} containing 1 bias vector
+ 
+    methods:
+ 
+             adapt: Learn while in continuous use
+         configure: Configure inputs & outputs
+            gensim: Generate Simulink model
+              init: Initialize weights & biases
+           perform: Calculate performance
+               sim: Evaluate network outputs given inputs
+             train: Train network with examples
+              view: View diagram
+       unconfigure: Unconfigure inputs & outputs
+ 
+    evaluate:       outputs = net(inputs)
+ 
+>> net = init(net);
+>> net.inputweights{1,1}.initFcn = 'rands';
+>> net.biases{1}.initFcn = 'rands';
+>> net = init(net);
+>> net.iw{1, 1}
+
+ans =
+
+    0.8116   -0.7460
+
+>> net.b{1}
+
+ans =
+
+    0.6294
+
+>> net1 = newp([-1 1; -1 1], 1);
+>> net1
+
+net1 =
+
+    Neural Network
+ 
+              name: 'Custom Neural Network'
+        efficiency: .cacheDelayedInputs, .flattenTime,
+                    .memoryReduction
+          userdata: (your custom info)
+ 
+    dimensions:
+ 
+         numInputs: 1
+         numLayers: 1
+        numOutputs: 1
+    numInputDelays: 0
+    numLayerDelays: 0
+ numFeedbackDelays: 0
+ numWeightElements: 3
+        sampleTime: 1
+ 
+    connections:
+ 
+       biasConnect: true
+      inputConnect: true
+      layerConnect: false
+     outputConnect: true
+ 
+    subobjects:
+ 
+            inputs: {1x1 cell array of 1 input}
+            layers: {1x1 cell array of 1 layer}
+           outputs: {1x1 cell array of 1 output}
+            biases: {1x1 cell array of 1 bias}
+      inputWeights: {1x1 cell array of 1 weight}
+      layerWeights: {1x1 cell array of 0 weights}
+ 
+    functions:
+ 
+          adaptFcn: 'adaptwb'
+        adaptParam: (none)
+          derivFcn: 'defaultderiv'
+         divideFcn: (none)
+       divideParam: (none)
+        divideMode: 'sample'
+           initFcn: 'initlay'
+        performFcn: 'mae'
+      performParam: .regularization, .normalization, .squaredWeighting
+          plotFcns: {'plotperform', plottrainstate}
+        plotParams: {1x2 cell array of 2 params}
+          trainFcn: 'trainc'
+        trainParam: .showWindow, .showCommandLine, .show, .epochs,
+                    .time, .goal, .max_fail
+ 
+    weight and bias values:
+ 
+                IW: {1x1 cell} containing 1 input weight matrix
+                LW: {1x1 cell} containing 0 layer weight matrices
+                 b: {1x1 cell} containing 1 bias vector
+ 
+    methods:
+ 
+             adapt: Learn while in continuous use
+         configure: Configure inputs & outputs
+            gensim: Generate Simulink model
+              init: Initialize weights & biases
+           perform: Calculate performance
+               sim: Evaluate network outputs given inputs
+             train: Train network with examples
+              view: View diagram
+       unconfigure: Unconfigure inputs & outputs
+ 
+    evaluate:       outputs = net1(inputs)
+ 
+>> net.iw{1, 1} = [-1, 1]
+
+net =
+
+    Neural Network
+ 
+              name: 'Custom Neural Network'
+        efficiency: .cacheDelayedInputs, .flattenTime,
+                    .memoryReduction
+          userdata: (your custom info)
+ 
+    dimensions:
+ 
+         numInputs: 1
+         numLayers: 1
+        numOutputs: 1
+    numInputDelays: 0
+    numLayerDelays: 0
+ numFeedbackDelays: 0
+ numWeightElements: 3
+        sampleTime: 1
+ 
+    connections:
+ 
+       biasConnect: true
+      inputConnect: true
+      layerConnect: false
+     outputConnect: true
+ 
+    subobjects:
+ 
+            inputs: {1x1 cell array of 1 input}
+            layers: {1x1 cell array of 1 layer}
+           outputs: {1x1 cell array of 1 output}
+            biases: {1x1 cell array of 1 bias}
+      inputWeights: {1x1 cell array of 1 weight}
+      layerWeights: {1x1 cell array of 0 weights}
+ 
+    functions:
+ 
+          adaptFcn: 'adaptwb'
+        adaptParam: (none)
+          derivFcn: 'defaultderiv'
+         divideFcn: (none)
+       divideParam: (none)
+        divideMode: 'sample'
+           initFcn: 'initlay'
+        performFcn: 'mae'
+      performParam: .regularization, .normalization, .squaredWeighting
+          plotFcns: {'plotperform', plottrainstate}
+        plotParams: {1x2 cell array of 2 params}
+          trainFcn: 'trainc'
+        trainParam: .showWindow, .showCommandLine, .show, .epochs,
+                    .time, .goal, .max_fail
+ 
+    weight and bias values:
+ 
+                IW: {1x1 cell} containing 1 input weight matrix
+                LW: {1x1 cell} containing 0 layer weight matrices
+                 b: {1x1 cell} containing 1 bias vector
+ 
+    methods:
+ 
+             adapt: Learn while in continuous use
+         configure: Configure inputs & outputs
+            gensim: Generate Simulink model
+              init: Initialize weights & biases
+           perform: Calculate performance
+               sim: Evaluate network outputs given inputs
+             train: Train network with examples
+              view: View diagram
+       unconfigure: Unconfigure inputs & outputs
+ 
+    evaluate:       outputs = net(inputs)
+ 
+>> net.b{1} = [0];
+>> x1 = [-1;0];
+>> x2 = [1;-1];
+>> y1 = sim(net, x1);
+>> y2 = sim(ney, x2);
+Undefined function or variable 'ney'.
+ 
+>> y2 = sim(net, x2);
+>> y1
+
+y1 =
+
+     1
+
+>> y2
+
+y2 =
+
+     0
+
+>> net1 = 0
+
+net1 =
+
+     0
+
+>> clear net1;
+>> clear ages;
+>> clear ans;
+>> plotpv([x1, x2],[y1, y2]);
+>> hold on;
+>> plotpc(net.iw{1, 1}, net.b{1});
+>> view(net);
+>> hold on;
+>> view(net);
+>> x = [0 0; 0 1; 1 0; 1 1];
+>> t = [0 1 1 1];
+>> net = newp([0 1; 0 1], 1);
+>> net.inputweights = 'rands';
+Error using network/subsasgn>network_subsasgn (line 245)
+You must assign to subobject properties individually.
+
+Error in network/subsasgn (line 13)
+net = network_subsasgn(net,subscripts,v,netname);
+ 
+>> net.inputweight = 'rands';
+Error using network/subsasgn>network_subsasgn (line 526)
+Reference to non-existent field 'inputweight'.
+
+Error in network/subsasgn (line 13)
+net = network_subsasgn(net,subscripts,v,netname);
+ 
+>>  net.inputweights{1,1}.initFcn = 'rands'; net.biases{1}.initFcn = 'rands';
+>> net = init(net);
+>> net.trainParams(x, t);
+Argument to dynamic structure reference must evaluate to a valid field name.
+
+Error in network/subsref (line 119)
+        v = v.(subs);
+ 
+>> net.trainParams(t, x);
+Argument to dynamic structure reference must evaluate to a valid field name.
+
+Error in network/subsref (line 119)
+        v = v.(subs);
+ 
+>> net.trainParams.epochs = 100;
+Error using network/subsasgn>network_subsasgn (line 526)
+Reference to non-existent field 'trainParams'.
+
+Error in network/subsasgn (line 13)
+net = network_subsasgn(net,subscripts,v,netname);
+ 
+>> net.trainParam.epochs = 1; 
+>> net.trainParam.epochs = 100;
+>> net = train(net, x, t);
+Error using trainc (line 100)
+Inputs and targets have different numbers of samples.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, x, t);
+Error using trainc (line 100)
+Inputs and targets have different numbers of samples.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> x = [0 0; 1 1; 1 0; 1 1]; 
+>> [net, y, e] = train(net, x, t);
+Error using trainc (line 100)
+Inputs and targets have different numbers of samples.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, {[0;0], [0;1], [1,0], [1,1]}, t);
+Error using trainc (line 93)
+Inputs X{1,3} and Inputs X{1,1} have different numbers of rows.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, x', t);
+>> [net, y, e] = train(net, {[0;0], [0;1], [1,0], [1,1]}, {0 1 0 1});
+Error using trainc (line 93)
+Inputs X{1,3} and Inputs X{1,1} have different numbers of rows.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, {[0;0], [0;1], [1,0], [1,1]}', {0 1 0 1});
+Error using trainc (line 93)
+Inputs X{3,1} and Inputs X{1,1} have different numbers of columns.
+
+Error in network/train (line 106)
+[net,tr] = feval(net.trainFcn,net,X,T,Xi,Ai,EW,net.trainParam);
+ 
+>> [net, y, e] = train(net, {[0;0],[0;1],[1;0], [1;1]}, {0 1 0 1});
+>> [net, y, e] = train(net, {[0;0],[0;1],[1;0], [1;1]}, {0 1 0 1});
+>> e
+
+e = 
+
+    [0]    [1]    [1]    [1]
+
+>> y
+
+y = 
+
+        trainFcn: 'trainc'
+      trainParam: [1x1 nnetParam]
+      performFcn: 'mae'
+    performParam: [1x1 nnetParam]
+        derivFcn: 'defaultderiv'
+       divideFcn: 'dividetrain'
+      divideMode: 'sample'
+     divideParam: [1x1 nnetParam]
+        trainInd: 1
+          valInd: []
+         testInd: []
+            stop: 'Maximum epoch reached.'
+      num_epochs: 100
+       trainMask: {[1]}
+         valMask: {[0]}
+        testMask: {[0]}
+      best_epoch: 0
+            goal: 0
+          states: {'epoch'  'time'  'perf'  'vperf'  'tperf'}
+           epoch: [1x101 double]
+            time: [1x101 double]
+            perf: [1x101 double]
+           vperf: [1x101 double]
+           tperf: [1x101 double]
+       best_perf: 0.2500
+      best_vperf: NaN
+      best_tperf: NaN
+
+>> plotpv(x',y);
+hold on;
+plotpc(net.iw, net.b);
+Error using vertcat
+The following error occurred converting from double to struct:
+Error using struct
+Conversion to struct from double is not possible.
+
+Error in plotpv (line 55)
+t = [t; zeros(3-tr,tc)];
+ 
+>> plotpv(x[:],y[:]);
+ plotpv(x[:],y[:]);
+        |
+Error: Unbalanced or unexpected parenthesis or bracket.
+ 
+>> plotpv(x,y);
+Error using plotpv (line 42)
+P must 1, 2, or 3 rows.
+ 
+>> plotpv([x[:]],[y[:]]);
+ plotpv([x[:]],[y[:]]);
+         |
+Error: Unbalanced or unexpected parenthesis or bracket.
+ 
+>> plotpv([x],[y]);
+Error using plotpv (line 42)
+P must 1, 2, or 3 rows.
+ 
+>> plotpv([x(1)],[y(1)]);
+Error using vertcat
+The following error occurred converting from double to struct:
+Error using struct
+Conversion to struct from double is not possible.
+
+Error in plotpv (line 55)
+t = [t; zeros(3-tr,tc)];
+ 
+>> plotpv([x(1), x(2)],[y(1), y(2)]);
+Index exceeds matrix dimensions.
+ 
+>> y = sim(net, x);
+Error using network/sim (line 130)
+Input 1 size does not match net.inputs{1}.size.
+ 
+>> y = sim(net, x');
+>> plotpv(x,y);
+Error using plotpv (line 42)
+P must 1, 2, or 3 rows.
+ 
+>> x
+
+x =
+
+     0     0
+     1     1
+     1     0
+     1     1
+
+>> y
+
+y =
+
+     0     1     1     1
+
+>> plotpv([x(1), x(2), x(3), x(4)], [y(1), y(2), y(3), y(4)]);
+>> hold on;
+>> plotpc(net.iw, net.b);
+Undefined function 'ne' for input arguments of type 'cell'.
+
+Error in plotpc (line 83)
+    if w(i,2) ~= 0
+ 
+>> plotpc(net.iw{1, :}, net.b{:});
+>> 
