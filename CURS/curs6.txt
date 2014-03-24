@@ -57,8 +57,17 @@
 
 			-> de remarcat ca w* exista indiferent daca mutimile sunt sau nu sunt liniar separabile. daca multimile sunt liniar separabile, atunci w* va determina un hiperplan care va separa punctele fara eroare. Altfel, hiperplanul se va det in asa vel in cat erarea sa fie minima;
 
-			->
- 
+		Ne intereseaza sa comparam cele doua formulari ale algoritmului (batch si online) din punct de vedere al vitezei;
+		<insert fig 2.5 (grafic dubios) >
+
+		reprezentarea este in axe semi-logaritmice.
+
+		Conform graficului, daca alg respectiv este folosit in varianta Online, apare problema modului in care prezentam exemplele. In fig 2.5 exemplele au fost oferite random timp de o epoca; In cazul batch este firesc ca nu apare aceasta problema, deoare toate exemplele participa la upgradarea lui w. Se observa ca convergenta in cadrul batch este de ordinul sutelor de epoci, in schimb, convergenta este cel putin de 10 ori mai mare, si este aparent instabila;
+
+		Asadar concluzionam ca este mai bine sa invatam la final, cand s-a adunat toata materia;
+
+		Motivatia acestui decalaj este aceea a conditiilo de experiment. Vectorii de antrenare au fost prezentati aleator; 
+
 
 
 
